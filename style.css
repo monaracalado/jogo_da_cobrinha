@@ -8,3 +8,7 @@ body{
     background-color: rgb(202, 193, 193);
     color: rgb(7, 59, 7);
 }
+
+#snake{
+    border: 2px solid black;
+}
